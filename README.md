@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">👩‍💻 Data Science || Blogger✍️ ||Community Member🌐||GSSoC Contributor||Google Crowdsource Contributor||Kaggler</h3>
 
-- 🌱 I’m currently Upsilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing**
+- 🌱 I’m currently Upskilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing**
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you.
 
 - 📫 How to reach me **jainayush9453@gmail.com**
