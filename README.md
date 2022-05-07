@@ -28,6 +28,12 @@ Frontend- Flask.
 
 Database- MySQL, Mongo dB.
 
+<p align="center">
+<i><b><h2> GitHub Stats 👀�  </b></i></h2>
+<img src="https://github-readme-stats.vercel.app/api?username=AyushJain001&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status" width="450px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AyushJain001&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages" width="380px">
+</p>
+
 
 <h1 align="center">Future is Data..Happy Learning and keep on Exploring </h1>
 
