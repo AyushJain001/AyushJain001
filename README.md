@@ -33,6 +33,7 @@ Database- MySQL, Mongo dB.
 <img src="https://github-readme-stats.vercel.app/api?username=AyushJain001&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status" width="450px">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AyushJain001&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages" width="380px">
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushJain001" alt="AyushJain001" /></p>
 
 
 <h1 align="center">Future is Data..Happy Learning and keep on Exploring </h1>
