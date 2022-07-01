@@ -8,7 +8,7 @@
 - 📫 How to reach me **jainayush9453@gmail.com**
 
 
-- Kaggle 2X Expert   https://www.kaggle.com/ayushjain001
+- Kaggle 3X Expert   https://www.kaggle.com/ayushjain001
 - Google CrowdSource Contributor( Level 17)
 
 <h3 align="left">Connect with me:</h3>
@@ -22,10 +22,10 @@ Currently upskilling myself in Data Science, ML , DL , Computer Vision , NLP.
 I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource.
 
 Skills-
-Python ,R Programmimg , Exploratory Data Analysis,Feature Selection , Machine Learning, Deep Learning, Computer vision.
+Python , Exploratory Data Analysis,Feature Selection , Machine Learning, Deep Learning, Computer vision.
 
 Projects-
-Data Analytics, Machine Learning , Deep Learning skillset used with deployment on cloud platform .
+Data Analytics, Machine Learning , Deep Learning, computer vision skillset used with deployment on cloud platform .
 
 
 Frontend- Flask. 
