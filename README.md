@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">👩‍💻 Data Science || Blogger✍️ ||Community Member🌐||GSSoC Contributor||Google Crowdsource Contributor||Kaggler</h3>
+<h3 align="center">👩‍💻 Data Science ||Kaggle || Blogger✍️ ||Community Member🌐||GSSoC Contributor||Google Crowdsource Contributor(Level 17)r|| Mentor @CodeINCommunity🌐</h3>
 
 - 🌱 I’m currently Upskilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing**
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you.
@@ -17,7 +17,7 @@
 </p>
 
 Bio-
-I am currently a 2nd year undergrad student.
+I am currently in my 3rd year of Undergraduate.
 Currently upskilling myself in Data Science, ML , DL , Computer Vision , NLP.
 I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource.
 
@@ -26,9 +26,10 @@ Python , Exploratory Data Analysis,Feature Selection , Machine Learning, Deep Le
 
 Projects-
 Data Analytics, Machine Learning , Deep Learning, computer vision skillset used with deployment on cloud platform .
+Cloud - Heroku , AWS, Azure.
 
 
-Frontend- Flask. 
+Frontend- Flask, HTML, CSS.
 
 Database- MySQL, Mongo dB.
 
