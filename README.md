@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">👩‍💻 Data Science ||Kaggle || Blogger✍️ ||Community Member🌐||GSSoC Contributor||Google Crowdsource Contributor(Level 17)r|| Mentor @CodeINCommunity🌐</h3>
+<h3 align="center">👩‍💻 Data Science||  KaggleR|| Blogger✍️ || Community Member🌐|| GSSoC Contributor|| Google Crowdsource Contributor(Level 17)|| Mentor @CodeINCommunity🌐</h3>
 
 - 🌱 I’m currently Upskilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing**
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you.
