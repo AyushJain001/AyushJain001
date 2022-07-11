@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">👩‍💻 Data Science||  Kaggler|| Blogger✍️ || Community Member🌐|| GSSoC Contributor|| Google Crowdsource Contributor(Level 17)|| Mentor @CodeINCommunity🌐</h3>
 
-- 🌱 I’m currently Upskilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing**
+- 🌱 I’m currently Upskilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing(basic)**
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you.
 -  🤝 I’m looking for  Data Science **Internship**
 
@@ -25,13 +25,13 @@ Skills-
 Python , Exploratory Data Analysis,Feature Selection , Machine Learning, Deep Learning, Computer vision.
 
 Projects-
-Data Analytics, Machine Learning , Deep Learning, computer vision skillset used with deployment on cloud platform .
+Data Analytics, Machine Learning , Deep Learning, Computer Vision skillset used with deployment on cloud platform .
 Cloud - Heroku , AWS, Azure.
 
-
 Frontend- Flask, HTML, CSS.
-
 Database- MySQL, Mongo dB.
+
+Please do check out my project work in my repository.
 
 <p align="center">
 <i><b><h2> GitHub Stats 👀</b></i></h2>
