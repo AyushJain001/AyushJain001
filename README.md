@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Upskilling myself on  **Machine Learning, Deep Learning , Computer Vision , Natural Language Processing(basic)**
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you.
--  🤝 I’m looking for  Data Science **Internship**
+-  🤝 I’m looking for an  **Internship** to upskill and get familiar with industry work.
 
 - 📫 How to reach me **jainayush9453@gmail.com**
 
