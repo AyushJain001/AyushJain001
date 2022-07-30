@@ -31,14 +31,24 @@ Cloud - Heroku , AWS, Azure.
 Frontend- Flask, HTML, CSS.
 Database- MySQL, Mongo dB.
 
-Please do check out my project work in my repository.
+Check out my project work in my repository🙌.
+
 
 <p align="center">
 <i><b><h2> GitHub Stats 👀</b></i></h2>
-<img src="https://github-readme-stats.vercel.app/api?username=AyushJain001&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status" width="450px">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AyushJain001&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages" width="380px">
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushJain001" alt="AyushJain001" /></p>
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=AyushJain001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Jain" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushJain001&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Jain" /></td>
+  </tr>
+</table>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushJain001&theme=dark" alt="AyushJain001" /></p>
+  </div>
+
+
+
 
 
 <h1 align="center">Future is Data..Happy Learning and keep on Exploring </h1>
