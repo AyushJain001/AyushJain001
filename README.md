@@ -31,7 +31,7 @@ Cloud - Heroku , AWS, Azure.
 Frontend- Flask, HTML, CSS.
 Database- MySQL, Mongo dB.
 
-Check out my project work in my repository🙌.
+Check out my project work in my repository🙌. Do ⭐ if you find it useful and interesting
 
 
 <p align="center">
