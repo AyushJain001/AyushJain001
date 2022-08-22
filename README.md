@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">👩‍💻 Data Science||  Kaggle 3X Expert || Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Contributor(Level 17)|| Data Structure || Algorithm||</h3>
 
-- 🌱 I’m Currently Upskilling Myself On : Machine Learning,   Deep Learning  ,   Computer Vision ,  Natural Language Processing
+- 🌱 I’m Currently Upskilling Myself On : Machine Learning,   Deep Learning  ,   Computer Vision ,  Natural Language Processing. Image processing
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you.
 -  🤝 I’m looking for an  **Internship** to upskill and get familiar with industry work.
 
