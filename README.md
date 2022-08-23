@@ -18,7 +18,7 @@
 
 Bio-
 I am currently in my 3rd year of Undergraduate.
-Currently upskilling myself in Data Science, ML , DL , Computer Vision , NLP.
+Had Hands on experience in  Machine learning , Deep learning , Computer Vision , NLP.
 I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource.
 
 Skills-
