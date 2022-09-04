@@ -4,7 +4,7 @@
 - 🌱  I have Hands on experience in Machine learning , deep learning and Computer vision.
 - 🌱 Currently Upskilling Myself On : Computer Vision ,  Natural Language Processing, Image processing
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you 🙌
--  🤝 I’m looking for an  **Internship** to upskill and get familiar with industry work.
+-  🤝 I’m looking for an  **Internship** in Data Science to upskill and get familiar with industry work.
 
 - 📫 How to reach me **jainayush9453@gmail.com**
 
