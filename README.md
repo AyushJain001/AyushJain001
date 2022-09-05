@@ -4,7 +4,9 @@
 - 🌱  I have Hands on experience in Machine learning , deep learning and Computer vision.
 - 🌱 Currently Upskilling Myself On : Computer Vision ,  Natural Language Processing, Image processing
 - Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you 🙌
--  🤝 I’m looking for an  **Internship** in Data Science to upskill and get familiar with industry work.
+-  🤝 I’m looking for an  **Internship** in Data Sciencem machine learning , deep learning ,computer vision to upskill and get familiar with industry work.
+- Data Structure and Algorithm
+
 
 - 📫 How to reach me **jainayush9453@gmail.com**
 
@@ -31,6 +33,8 @@ Data Analytics, Machine Learning , Deep Learning, Computer Vision skillset used 
 Cloud - Heroku , AWS, Azure.
 
 Frontend- Flask, HTML, CSS.
+
+
 Database- MySQL, Mongo dB.
 
 Check out my project work in my repository🙌. Do ⭐ if you find it useful and interesting
