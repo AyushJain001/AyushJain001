@@ -21,7 +21,7 @@
 </p>
 
 Bio-
-I am currently in my 3rd year of Undergraduate.
+I am currently in my 3rd year of Undergraduate pursuing specialization in Data Science.
 
 I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource.
 
