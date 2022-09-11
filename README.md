@@ -7,6 +7,8 @@
 -  🤝 I’m looking for an  **Internship** in Data Sciencem machine learning , deep learning ,computer vision to upskill and get familiar with industry work.
 - Data Structure and Algorithm 
 - Problem solving DSA
+-Data Base And Management System
+- Operating System
 
 
 - 📫 How to reach me **jainayush9453@gmail.com**
