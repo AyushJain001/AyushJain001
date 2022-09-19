@@ -3,13 +3,13 @@
 
 - 🌱  I have Hands on experience in Machine learning , deep learning and Computer vision.
 - 🌱 Currently Upskilling Myself On : Computer Vision ,  Natural Language Processing, Image processing
-- Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you 🙌
--  🤝 I’m looking for an  **Internship** in Data Sciencem machine learning , deep learning ,computer vision to upskill and get familiar with industry work.
+- 🌱 Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you 🙌
+- 🤝 I’m looking for an  **Internship** in Data Science machine learning , deep learning ,computer vision to upskill and get familiar with industry work.
+
 - Data Structure and Algorithm 
 - Problem solving DSA
--Data Base And Management System
+-DataBase And Management System
 - Operating System
-
 
 - 📫 How to reach me **jainayush9453@gmail.com**
 
@@ -26,7 +26,7 @@
 Bio-
 I am currently in my 3rd year of Undergraduate pursuing specialization in Data Science.
 
-I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource.
+I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource and other open source community.
 
 Skills-
 Python , Exploratory Data Analysis, Feature Selection , Statistics, Numpy, Scipy, Pandas, Matplotlib , Machine Learning, Deep Learning, Computer vision.
