@@ -7,14 +7,14 @@
 - 🤝 I’m looking for an  **Internship** in Data Science machine learning , deep learning ,computer vision to upskill and get familiar with industry work.
 
 - Data Structure and Algorithm 
-- Problem solving DSA
+- Problem solving 
 -DataBase And Management System
 - Operating System
 
 - 📫 How to reach me **jainayush9453@gmail.com**
 
 
-- Kaggle 3X Expert   https://www.kaggle.com/ayushjain001
+- Kaggle 3X Expert(DataSet Expert)   https://www.kaggle.com/ayushjain001
 
 - Google CrowdSource Contributor( Level 17)
 
