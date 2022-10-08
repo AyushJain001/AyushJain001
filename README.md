@@ -41,6 +41,18 @@ Frontend- Flask, HTML, CSS.
 Database- MySQL, Mongo dB.
 
 Check out my project work in my repository🙌. Do ⭐ if you find it useful and interesting
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=AyushJain001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Jain" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushJain001&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Jain" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushJain001&theme=dark" alt="AyushJain001" /></p>
+  </div>
+
 
 
 
