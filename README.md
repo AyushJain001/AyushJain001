@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">👩‍💻 Data Science Enthusiast||  Kaggle 3X Expert || Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Contributor(Level 17)|| Data Structure || Algorithm|| HacktoverFest'22 Contributor</h3>
+<h3 align="center">👩‍💻 Data Science Enthusiast||  Kaggle 3X Expert || Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Contributor(Level 17)|| Data Structure || Algorithm|| HacktoberFest'22 Contributor</h3>
 
 - 🌱  I have Hands on experience in Machine learning , deep learning and Computer vision.
 - 🌱 Currently Upskilling Myself On : Computer Vision ,  Natural Language Processing, Image processing
