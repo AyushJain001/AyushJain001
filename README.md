@@ -56,7 +56,7 @@ Check out my project work in my repository🙌. Do ⭐ if you find it useful and
 
 
 
-<h1 align="center">Ping me for Enhancement of your Project or building new one. </h1>
+<h1 align="center">Connect With me  for Enhancement of your Project or building new one. </h1>
 
 
 
