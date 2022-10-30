@@ -5,7 +5,7 @@
 - 🌱 Currently Upskilling Myself On : Computer Vision ,  Natural Language Processing, Image processing
 - 🌱 Interest - Love to interact with new people and gain insights and connect with them . Happy to connect with you 🙌
 - 🤝 I’m looking for an  **Internship** in Data Science machine learning , deep learning ,computer vision to upskill and get familiar with industry work.
-- KubeCon+ CloudNativeCon North America 2022 Virtual Event Participant(Attendee)🙌
+- **KubeCon+ CloudNativeCon North America 2022** Virtual Event Participant(Attendee)🙌
 - Data Structure and Algorithm 
 - Problem solving 
 -DataBase And Management System
