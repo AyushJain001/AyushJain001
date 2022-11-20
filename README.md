@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 Data Science Enthusiast||  Kaggle 3X Expert || Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Contributor(Level 17)|| Data Structure || Algorithm|| HacktoberFest'22 Contributor || Open Source Contributor</h3>
 
 
-- 🎉🎉Building @DevGram Community- A community to help peers grow together and help them in carrer aspect
+- 🎉🎉Building @DevGram Community- A community to help peers grow together and promote open source and community work.
 Connect Us Discord- https://discord.gg/TBGsqXD6ac   
 We talk related to open source , data science, web3, blockchain etc in our community .
 - 🌱  I have Hands on experience in Machine learning , deep learning and Computer vision.
