@@ -8,6 +8,7 @@ Connect Us on  Discord- https://discord.gg/TBGsqXD6ac
 We talk related to open source , data science, web3, blockchain etc in our community .
 - 🌱I have Hands on experience in Machine learning , deep learning and Computer vision.
 - **KubeCon+ CloudNativeCon North America 2022** Virtual Event Participant(Attendee)🙌
+- DevFest 2022 New Delhi by Google Developer group Attendee 
 
 - 📫 How to reach me **jainayush9453@gmail.com**
 
