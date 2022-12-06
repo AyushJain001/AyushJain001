@@ -16,7 +16,6 @@ We talk related to open source , data science, web3, blockchain etc in our commu
 
 - Kaggle 3X Expert(DataSet Expert)   https://www.kaggle.com/ayushjain001
 
-- Google CrowdSource Contributor( Level 17)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
