@@ -4,9 +4,10 @@
 **Founder at DevGram Community**
 
 - 🎉Building @DevGram Community- A community to help peers grow together and promote open source and help them in emerging technologies.
-Connect Us on  Discord- https://discord.gg/TBGsqXD6ac   
-We talk related to open source , data science, web3, blockchain etc in our community .
-- 🌱I have Hands on experience in Machine learning , deep learning and Computer vision.
+Connect Us on  Discord- https://discord.gg/TBGsqXD6ac 
+
+- 🌱I have Hands on experience in Machine learning , Deep learning and Computer vision.
+- 
 - **KubeCon+ CloudNativeCon North America 2022** Virtual Event Participant(Attendee)🙌
 - Google CrowdSource Influencer
 
@@ -14,6 +15,7 @@ We talk related to open source , data science, web3, blockchain etc in our commu
 
 
 - Kaggle 3X Expert(DataSet Expert)   https://www.kaggle.com/ayushjain001
+- 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,16 +29,17 @@ I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowd
 Skills-
 Python , Exploratory Data Analysis, Feature Selection , Statistics, Numpy, Scipy, Pandas, Matplotlib , Machine Learning, Deep Learning, Computer vision.
 
+Frontend- Flask, HTML, CSS.
+
+Database- MySQL, Mongo dB.
+
 Projects-
 Data Analytics, Machine Learning , Deep Learning, Computer Vision skillset used with deployment on cloud platform .
 Cloud - Heroku , AWS, Azure.
 
-Frontend- Flask, HTML, CSS.
 
-
-Database- MySQL, Mongo dB.
-
-Check out my project work in my repository🙌. Do ⭐ if you find it useful and interesting
+Check out my project work in my repository🙌.
+Do ⭐ if you find it useful and interesting
 <table>
   <tr>
    
