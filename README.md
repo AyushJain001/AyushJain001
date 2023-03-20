@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">👩‍💻 Data Science Enthusiast||  Kaggle 3X Expert || Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Influencer || Open Source Contributor</h3>
 
-**Founder at DevGram Community**
+**Co-Founder at DevGram Community**
 
 - 🎉Building @DevGram Community- A community to help peers grow together and promote open source and help them in emerging technologies.
 Connect Us on  Discord- https://discord.gg/TBGsqXD6ac 
