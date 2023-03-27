@@ -7,7 +7,7 @@
 Connect Us on  Discord- https://discord.gg/TBGsqXD6ac 
 
 - 🌱I have Hands on experience in Machine learning , Deep learning and Computer vision.
-- 
+- Problem solving
 - **KubeCon+ CloudNativeCon North America 2022** Virtual Event Participant(Attendee)🙌
 - Google CrowdSource Influencer
 
