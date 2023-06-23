@@ -14,13 +14,12 @@ Connect Us on  Discord- https://discord.gg/TBGsqXD6ac
 - 📫 How to reach me **jainayush9453@gmail.com**
 
 
-- Kaggle 3X Expert(DataSet Expert)   https://www.kaggle.com/ayushjain001
-- 
+- Kaggle 3X Expert(DataSet Expert)   
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush-jain-001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jain-001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jain-001" height="30" width="40" /></a>
 </p>
 
 
