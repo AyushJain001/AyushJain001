@@ -19,7 +19,7 @@ Connect Us on  Discord- https://discord.gg/TBGsqXD6ac
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ayush-jain-001/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jain-001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-jain-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/ayush-jain-001/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jain-001" height="30" width="40" /></a>
 </p>
 
 
