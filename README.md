@@ -16,12 +16,13 @@ Connect Us on  Discord- https://discord.gg/TBGsqXD6ac
 
 - Kaggle 3X Expert(DataSet Expert)   
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-jain-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/ayush-jain-001/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jain-001" height="30" width="40" /></a>
 </p>
 
+-->
 
 I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource and other open source community.
 
@@ -42,6 +43,7 @@ Do ⭐ if you find it useful and interesting
 <table>
   <tr>
    
+<!--
 <td><img src="https://github-readme-stats.vercel.app/api?username=AyushJain001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Jain" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushJain001&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Jain" /></td>
   </tr>
@@ -51,13 +53,24 @@ Do ⭐ if you find it useful and interesting
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushJain001&theme=dark" alt="AyushJain001" /></p>
   </div>
 
-
+-->
 
 
 
 
 <h1 align="center">Connect With me  for Enhancement of your Project or building new one. </h1>
+<h1 align="center">Let's Get Connected</h1>
 
+<div align="center">
+
+
+<a  href="https://www.linkedin.com/in/ayush-jain-001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+   
+   
+</div>
 
 
 
