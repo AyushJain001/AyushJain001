@@ -3,17 +3,14 @@
 
 **Co-Founder at DevGram Community**
 
+Google Cerified Data Analytics
+
 - 🎉Building @DevGram Community- A community to help peers grow together and promote open source and help them in emerging technologies.
 Connect Us on  Discord- https://discord.gg/TBGsqXD6ac 
 
 - 🌱I have Hands on experience in Machine learning , Deep learning and Computer vision.
-- Problem solving
-- **KubeCon+ CloudNativeCon North America 2022** Virtual Event Participant(Attendee)🙌
+- Proficient in Data Structure and Algorithm , Problem solving 
 - Google CrowdSource Influencer
-
-- 📫 How to reach me **jainayush9453@gmail.com**
-
-
 - Kaggle 3X Expert(DataSet Expert)   
 
 <!--
@@ -24,20 +21,28 @@ Connect Us on  Discord- https://discord.gg/TBGsqXD6ac
 
 -->
 
-I Love contributing in Open Source Community like Kaggle , GitHub , Google Crowdsource and other open source community.
+I Love contributing in Open Source Community like 
+
+-Kaggle, GitHub, Google Crowdsource and other open source community....
 
 Skills-
-Python , Exploratory Data Analysis, Feature Selection , Statistics, Numpy, Scipy, Pandas, Matplotlib , Machine Learning, Deep Learning, Computer vision.
+- Python , C++
+- Exploratory Data Analysis
+- Feature Selection
+- Statistics
+- Numpy, Scipy, Pandas, Matplotlib
+- Machine Learning, Deep Learning, Computer vision.
 
-Frontend- Flask, HTML, CSS.
+- Frontend- Flask, HTML, CSS.
 
-Database- MySQL, Mongo dB.
+- Database- MySQL, Mongo dB.
 
-Projects-
-Data Analytics, Machine Learning , Deep Learning, Computer Vision skillset used with deployment on cloud platform .
-Cloud - Heroku , AWS, Azure.
+- Projects-
+Data Analytics, Machine Learning , Deep Learning, Computer Vision skillset used with deployment on cloud platform.
 
+- 📫 How to reach me **jainayush9453@gmail.com**
 
+  
 Check out my project work in my repository🙌.
 Do ⭐ if you find it useful and interesting
 <table>
