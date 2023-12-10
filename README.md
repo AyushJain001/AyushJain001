@@ -11,7 +11,7 @@ Connect Us on  Discord- https://discord.gg/TBGsqXD6ac
 - 🌱I have Hands on experience in Machine learning , Deep learning and Computer vision.
 - Proficient in Data Structure and Algorithm , Problem solving 
 - Google CrowdSource Influencer
-- Kaggle 3X Expert(DataSet Expert)   
+   
 
 <!--
 <h3 align="left">Connect with me:</h3>
