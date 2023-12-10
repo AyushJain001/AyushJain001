@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">👩‍💻 Data Science Enthusiast||  Kaggle 3X Expert || Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Influencer || Open Source Contributor</h3>
+<h3 align="center">👩‍💻 Data Science Enthusiast|| Community Member🌐|| GSSoC'22 Contributor|| Google Crowdsource Influencer || Open Source Contributor</h3>
 
 **Co-Founder at DevGram Community**
 
